@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/sem22.dir/main.cpp.o  -o sem22.exe -Wl,--out-implib,libsem22.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
